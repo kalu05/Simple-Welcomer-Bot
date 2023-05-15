@@ -13,9 +13,12 @@
 
 1. Clone repository.
 2. Install dependencies with command `npm install`.
-3. `.env` fill required.
-4. Add bot to your server.
-5. Run `npm run start` to start a bot.
+3. Create `.env` file and paste this text:
+`TOKEN=Your Token
+CLIENT_ID=Bot ID`
+4. `.env` fill required.
+5. Add bot to your server.
+6. Run `npm run start` to start a bot.
 
 
 ## Author
