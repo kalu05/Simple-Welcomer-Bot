@@ -23,7 +23,7 @@
 👤 **Kaluye Contact**
 
 * Discord: [Kaluye](https://discord.com/users/504567188519256068)
-* Github: [@muratvastark](https://github.com/muratvastark)
+* Github: [@kaluye](https://github.com/muratvastark)
 
 ## Show your support
 
