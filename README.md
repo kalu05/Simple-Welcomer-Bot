@@ -24,7 +24,7 @@
 👤 **Kaluye Contact**
 
 * Discord: [Kaluye](https://discord.com/users/504567188519256068)
-* Github: [@kaluye](https://github.com/muratvastark)
+* Github: [@kaluye](https://github.com/kaluye05)
 
 ## Show your support
 
@@ -33,4 +33,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Kaluye](https://github.com/kalu05).<br />
-This project is [MIT]([https://github.com/muratvastark/discord-welcome-bot/blob/main/LICENSE](https://github.com/kalu05/Simple-Welcomer-Bot/blob/main/LICENSE)) licensed.
+This project is [MIT](https://github.com/kalu05/Simple-Welcomer-Bot/blob/main/LICENSE) licensed.
