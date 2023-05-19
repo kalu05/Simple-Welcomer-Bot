@@ -7,7 +7,7 @@
 
 > This is really simple welcomer bot for your server.
 
-### 🏠 [Homepage]([https://github.com/muratvastark/discord-welcome-bot](https://github.com/kalu05/Simple-Welcomer-Bot))
+### 🏠 [Homepage](https://github.com/kalu05/Simple-Welcomer-Bot)
 
 ## Usage
 
